@@ -6,9 +6,7 @@ const main = () => {
     <View>
           <Text>main</Text>
         <Text> I want to learn english </Text>
-      <View>
-        <Text>AMirhamza</Text>
-        </View>
+  
     </View>
   )
 }
