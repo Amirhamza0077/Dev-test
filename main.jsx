@@ -4,7 +4,8 @@ import React from 'react'
 const main = () => {
   return (
     <View>
-      <Text>main</Text>
+          <Text>main</Text>
+        <Text> I want to learn english </Text>
     </View>
   )
 }
